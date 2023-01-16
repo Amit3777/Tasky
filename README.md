@@ -1,1 +1,1 @@
-# Tasky
+# tasky-application project
